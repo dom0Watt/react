@@ -1,0 +1,4 @@
+flux:
+  build: .
+  volumes:
+    - $PWD:/home/flux/app
